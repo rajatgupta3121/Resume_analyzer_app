@@ -1,5 +1,5 @@
 
-# 💼 AI Resume Analyzer + Job Matcher (Gemini-Powered)
+# 💼 AI Resume Analyzer + Job Matcher (Gemini-Powered) ---  [Demo](https://huggingface.co/spaces/rajatgupta3121/resume_analyser)
 
 A professional Streamlit web application that helps job seekers analyze their resumes against job descriptions using Google Gemini AI, identify skill gaps, and generate personalized cover letters — all in a beautiful dark-themed UI.
 
@@ -22,7 +22,7 @@ A professional Streamlit web application that helps job seekers analyze their re
 - Includes achievements, enthusiasm, and resume highlights
 - Download as `.txt` and integrate into your application
 
-### 📊 Skill Gap Analyzer (IIT Hackathon Level)
+### 📊 Skill Gap Analyzer
 - Compares skills in resume vs required job description
 - Outputs ✅ matched and ❌ missing skills
 - Future updates: add links to courses (e.g., Coursera)
@@ -61,8 +61,8 @@ A professional Streamlit web application that helps job seekers analyze their re
 ### 🔧 Setup
 
 ```bash
-git clone https://github.com/your-username/resume-analyzer.git
-cd resume-analyzer
+git clone https://github.com/rajatgupta3121/Resume_analyzer_app.git
+cd Resume_analyzer_app
 
 # Create and activate virtual environment
 python -m venv venv
